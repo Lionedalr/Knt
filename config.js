@@ -47,7 +47,7 @@ global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281770069191'
-global.nomorown = '6281770069191'
+global.nomorown = '62895604704000'
 global.namebot = 'BOT Nell GTPS'
 global.nameown = 'Nell GTPS'
 
@@ -58,7 +58,7 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281770069191', 'WH MODS DEV', true],
+  ['62895604704000', 'WH MODS DEV', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
